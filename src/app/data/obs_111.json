@@ -1,0 +1,2114 @@
+{
+    "graphData": {
+        "attributes": {
+            "name": "InAs"
+        },
+        "nodes": [
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        -2.1591945,
+                        0.8814875,
+                        1.24661125
+                    ],
+                    "fracPosition": [
+                        -0.5,
+                        -0.25,
+                        0.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,-1,-1,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        -5.00000000069889e-07,
+                        0.8814875,
+                        -2.49322275
+                    ],
+                    "fracPosition": [
+                        -0.5,
+                        0.75,
+                        0.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,-1,0,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        2.1591934999999998,
+                        4.4074375,
+                        -1.2466117500000002
+                    ],
+                    "fracPosition": [
+                        -0.5,
+                        0.75,
+                        1.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,-1,0,1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        2.1591934999999998,
+                        0.8814875,
+                        -6.233056749999999
+                    ],
+                    "fracPosition": [
+                        -0.5,
+                        1.75,
+                        0.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,-1,1,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        4.3183875,
+                        4.4074375,
+                        -4.98644575
+                    ],
+                    "fracPosition": [
+                        -0.5,
+                        1.75,
+                        1.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,-1,1,1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        5.000000001809113e-07,
+                        -2.6444625,
+                        2.5000000009045564e-07
+                    ],
+                    "fracPosition": [
+                        0.5,
+                        -0.25,
+                        -0.75
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,0,-1,-1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        2.1591945,
+                        0.8814875,
+                        1.24661125
+                    ],
+                    "fracPosition": [
+                        0.5,
+                        -0.25,
+                        0.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,0,-1,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        2.1591945,
+                        -2.6444625,
+                        -3.73983375
+                    ],
+                    "fracPosition": [
+                        0.5,
+                        0.75,
+                        -0.75
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,0,0,-1"
+            },
+            {
+                "attributes": {
+                    "inCell": true,
+                    "motifType": "atom",
+                    "position": [
+                        4.3183885,
+                        0.8814875,
+                        -2.49322275
+                    ],
+                    "fracPosition": [
+                        0.5,
+                        0.75,
+                        0.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,0,0,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        6.4775825,
+                        4.4074375,
+                        -1.2466117500000002
+                    ],
+                    "fracPosition": [
+                        0.5,
+                        0.75,
+                        1.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,0,0,1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        6.4775825,
+                        0.8814875,
+                        -6.233056749999999
+                    ],
+                    "fracPosition": [
+                        0.5,
+                        1.75,
+                        0.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,0,1,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        4.3183895,
+                        -2.6444625,
+                        2.5000000009045564e-07
+                    ],
+                    "fracPosition": [
+                        1.5,
+                        -0.25,
+                        -0.75
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,1,-1,-1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        6.4775835,
+                        0.8814875,
+                        1.24661125
+                    ],
+                    "fracPosition": [
+                        1.5,
+                        -0.25,
+                        0.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,1,-1,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        6.4775835,
+                        -2.6444625,
+                        -3.73983375
+                    ],
+                    "fracPosition": [
+                        1.5,
+                        0.75,
+                        -0.75
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,1,0,-1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        8.636777499999999,
+                        0.8814875,
+                        -2.49322275
+                    ],
+                    "fracPosition": [
+                        1.5,
+                        0.75,
+                        0.25
+                    ],
+                    "motif": {
+                        "color": "#d781bb",
+                        "atomicNumber": 49,
+                        "radius": 0.775,
+                        "chemicalSymbol": "In"
+                    }
+                },
+                "key": "0,1,0,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        -4.318389,
+                        0.0,
+                        -0.0
+                    ],
+                    "fracPosition": [
+                        -1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,-1,0,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        -2.159195,
+                        3.52595,
+                        1.246611
+                    ],
+                    "fracPosition": [
+                        -1.0,
+                        0.0,
+                        1.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,-1,0,1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        -2.159195,
+                        0.0,
+                        -3.739834
+                    ],
+                    "fracPosition": [
+                        -1.0,
+                        1.0,
+                        0.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,-1,1,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        -1.000000000139778e-06,
+                        3.52595,
+                        -2.4932230000000004
+                    ],
+                    "fracPosition": [
+                        -1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,-1,1,1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        -2.159194,
+                        0.0,
+                        3.739834
+                    ],
+                    "fracPosition": [
+                        0.0,
+                        -1.0,
+                        0.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,0,-1,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        -2.159194,
+                        -3.52595,
+                        -1.246611
+                    ],
+                    "fracPosition": [
+                        0.0,
+                        0.0,
+                        -1.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,0,0,-1"
+            },
+            {
+                "attributes": {
+                    "inCell": true,
+                    "motifType": "atom",
+                    "position": [
+                        0.0,
+                        0.0,
+                        -0.0
+                    ],
+                    "fracPosition": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,0,0,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        2.159194,
+                        3.52595,
+                        1.246611
+                    ],
+                    "fracPosition": [
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,0,0,1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        2.159194,
+                        0.0,
+                        -3.739834
+                    ],
+                    "fracPosition": [
+                        0.0,
+                        1.0,
+                        0.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,0,1,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        4.318388,
+                        3.52595,
+                        -2.4932230000000004
+                    ],
+                    "fracPosition": [
+                        0.0,
+                        1.0,
+                        1.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,0,1,1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        1.000000000139778e-06,
+                        -3.52595,
+                        2.4932230000000004
+                    ],
+                    "fracPosition": [
+                        1.0,
+                        -1.0,
+                        -1.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,1,-1,-1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        2.159195,
+                        0.0,
+                        3.739834
+                    ],
+                    "fracPosition": [
+                        1.0,
+                        -1.0,
+                        0.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,1,-1,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        2.159195,
+                        -3.52595,
+                        -1.246611
+                    ],
+                    "fracPosition": [
+                        1.0,
+                        0.0,
+                        -1.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,1,0,-1"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        4.318389,
+                        0.0,
+                        -0.0
+                    ],
+                    "fracPosition": [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,1,0,0"
+            },
+            {
+                "attributes": {
+                    "inCell": false,
+                    "motifType": "atom",
+                    "position": [
+                        6.477582999999999,
+                        0.0,
+                        -3.739834
+                    ],
+                    "fracPosition": [
+                        1.0,
+                        1.0,
+                        0.0
+                    ],
+                    "motif": {
+                        "color": "#75d057",
+                        "atomicNumber": 33,
+                        "radius": 0.575,
+                        "chemicalSymbol": "As"
+                    }
+                },
+                "key": "1,1,1,0"
+            }
+        ],
+        "edges": [
+            {
+                "key": "0,-1,-1,0->1,0,0,0",
+                "attributes": {
+                    "bondLength": 2.644462272393588,
+                    "atomicNumberKey": "As-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                -0.9979475882695021,
+                                0.40741041379769766,
+                                0.57616518125029
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                -0.9979475882695021,
+                                0.40741041379769766,
+                                0.57616518125029
+                            ],
+                            "fromPosition": [
+                                -2.1591945,
+                                0.8814875,
+                                1.24661125
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,-1,-1,0",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "0,-1,0,0->0,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318389,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                2.1591940000000003,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                2.1591940000000003,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "fromPosition": [
+                                -5.00000000069889e-07,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,-1,0,0",
+                "target": "0,0,0,0"
+            },
+            {
+                "key": "0,-1,0,0->1,0,0,0",
+                "attributes": {
+                    "bondLength": 2.644462118044814,
+                    "atomicNumberKey": "As-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                -2.3109256337105442e-07,
+                                0.40741041185213767,
+                                -1.1523304725439887
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                -2.3109256337105442e-07,
+                                0.40741041185213767,
+                                -1.1523304725439887
+                            ],
+                            "fromPosition": [
+                                -5.00000000069889e-07,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,-1,0,0",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "0,-1,0,1->0,0,0,0",
+                "attributes": {
+                    "bondLength": 4.3183892177345475,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                3.238791,
+                                2.6444625,
+                                -1.8699172500000003
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                3.238791,
+                                2.6444625,
+                                -1.8699172500000003
+                            ],
+                            "fromPosition": [
+                                2.1591934999999998,
+                                4.4074375,
+                                -1.2466117500000002
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,-1,0,1",
+                "target": "0,0,0,0"
+            },
+            {
+                "key": "0,-1,1,0->0,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318388749936833,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                3.238791,
+                                0.8814875,
+                                -4.36313975
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                3.238791,
+                                0.8814875,
+                                -4.36313975
+                            ],
+                            "fromPosition": [
+                                2.1591934999999998,
+                                0.8814875,
+                                -6.233056749999999
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,-1,1,0",
+                "target": "0,0,0,0"
+            },
+            {
+                "key": "0,-1,1,1->0,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318389089721999,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                4.318388000000001,
+                                2.6444625000000004,
+                                -3.73983425
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                4.318388000000001,
+                                2.6444625000000004,
+                                -3.73983425
+                            ],
+                            "fromPosition": [
+                                4.3183875,
+                                4.4074375,
+                                -4.98644575
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,-1,1,1",
+                "target": "0,0,0,0"
+            },
+            {
+                "key": "0,0,-1,-1->1,0,0,0",
+                "attributes": {
+                    "bondLength": 2.644462500000059,
+                    "atomicNumberKey": "As-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                2.3109256615327938e-07,
+                                -1.2222312500000023,
+                                1.1554628307663969e-07
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                2.3109256615327938e-07,
+                                -1.2222312500000023,
+                                1.1554628307663969e-07
+                            ],
+                            "fromPosition": [
+                                5.000000001809113e-07,
+                                -2.6444625,
+                                2.5000000009045564e-07
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,-1,-1",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "0,0,-1,0->0,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318388249936775,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                3.2387915,
+                                0.8814875,
+                                -0.6233057500000001
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                3.2387915,
+                                0.8814875,
+                                -0.6233057500000001
+                            ],
+                            "fromPosition": [
+                                2.1591945,
+                                0.8814875,
+                                1.24661125
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,-1,0",
+                "target": "0,0,0,0"
+            },
+            {
+                "key": "0,0,-1,0->1,0,0,0",
+                "attributes": {
+                    "bondLength": 2.644462272393589,
+                    "atomicNumberKey": "As-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                0.9979475882695021,
+                                0.40741041379769766,
+                                0.57616518125029
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                0.9979475882695021,
+                                0.40741041379769766,
+                                0.57616518125029
+                            ],
+                            "fromPosition": [
+                                2.1591945,
+                                0.8814875,
+                                1.24661125
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,-1,0",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "0,0,0,-1->0,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318388717734544,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                3.2387915,
+                                -0.8814875,
+                                -3.11652825
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                3.2387915,
+                                -0.8814875,
+                                -3.11652825
+                            ],
+                            "fromPosition": [
+                                2.1591945,
+                                -2.6444625,
+                                -3.73983375
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,0,-1",
+                "target": "0,0,0,0"
+            },
+            {
+                "key": "0,0,0,0->0,1,-1,-1",
+                "attributes": {
+                    "bondLength": 4.318389089721999,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                4.318389,
+                                -0.8814874999999999,
+                                -1.24661125
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                4.318389,
+                                -0.8814874999999999,
+                                -1.24661125
+                            ],
+                            "fromPosition": [
+                                4.3183895,
+                                -2.6444625,
+                                2.5000000009045564e-07
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "0,1,-1,-1"
+            },
+            {
+                "key": "0,0,0,0->0,1,0,-1",
+                "attributes": {
+                    "bondLength": 4.3183892177345475,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                5.3979859999999995,
+                                -0.8814875000000001,
+                                -3.11652825
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                5.3979859999999995,
+                                -0.8814875000000001,
+                                -3.11652825
+                            ],
+                            "fromPosition": [
+                                6.4775835,
+                                -2.6444625,
+                                -3.73983375
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "0,1,0,-1"
+            },
+            {
+                "key": "0,0,0,0->0,1,-1,0",
+                "attributes": {
+                    "bondLength": 4.318388749936833,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                5.3979859999999995,
+                                0.8814875,
+                                -0.6233057500000001
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                5.3979859999999995,
+                                0.8814875,
+                                -0.6233057500000001
+                            ],
+                            "fromPosition": [
+                                6.4775835,
+                                0.8814875,
+                                1.24661125
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "0,1,-1,0"
+            },
+            {
+                "key": "0,0,0,0->0,1,0,0",
+                "attributes": {
+                    "bondLength": 4.318389,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                6.477582999999999,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                6.477582999999999,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "fromPosition": [
+                                8.636777499999999,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "0,1,0,0"
+            },
+            {
+                "key": "0,0,0,0->1,1,0,0",
+                "attributes": {
+                    "bondLength": 2.644462118044814,
+                    "atomicNumberKey": "As-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                4.318388768907436,
+                                0.40741041185213767,
+                                -1.1523304725439887
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                4.318388768907436,
+                                0.40741041185213767,
+                                -1.1523304725439887
+                            ],
+                            "fromPosition": [
+                                4.318389,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "1,1,0,0"
+            },
+            {
+                "key": "0,0,0,0->0,0,1,0",
+                "attributes": {
+                    "bondLength": 4.318388249936775,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                5.3979855,
+                                0.8814875,
+                                -4.363139749999999
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                5.3979855,
+                                0.8814875,
+                                -4.363139749999999
+                            ],
+                            "fromPosition": [
+                                6.4775825,
+                                0.8814875,
+                                -6.233056749999999
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "0,0,1,0"
+            },
+            {
+                "key": "0,0,0,0->1,0,1,0",
+                "attributes": {
+                    "bondLength": 2.644462272393589,
+                    "atomicNumberKey": "As-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                3.157141588269502,
+                                0.4074104137976976,
+                                -3.16366881874971
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                3.157141588269502,
+                                0.4074104137976976,
+                                -3.16366881874971
+                            ],
+                            "fromPosition": [
+                                2.159194,
+                                0.0,
+                                -3.739834
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "1,0,1,0"
+            },
+            {
+                "key": "0,0,0,0->1,1,1,0",
+                "attributes": {
+                    "bondLength": 2.644462272393588,
+                    "atomicNumberKey": "As-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                5.479635411730498,
+                                0.40741041379769755,
+                                -3.16366881874971
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                5.479635411730498,
+                                0.40741041379769755,
+                                -3.16366881874971
+                            ],
+                            "fromPosition": [
+                                6.477582999999999,
+                                0.0,
+                                -3.739834
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "1,1,1,0"
+            },
+            {
+                "key": "0,0,0,0->0,0,0,1",
+                "attributes": {
+                    "bondLength": 4.318388717734544,
+                    "atomicNumberKey": "In-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                5.3979855,
+                                2.6444625000000004,
+                                -1.86991725
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                5.3979855,
+                                2.6444625000000004,
+                                -1.86991725
+                            ],
+                            "fromPosition": [
+                                6.4775825,
+                                4.4074375,
+                                -1.2466117500000002
+                            ],
+                            "color": "#d781bb"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "0,0,0,1"
+            },
+            {
+                "key": "0,0,0,0->1,0,1,1",
+                "attributes": {
+                    "bondLength": 2.644462500000059,
+                    "atomicNumberKey": "As-In",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                4.318388231092566,
+                                2.303718749999998,
+                                -2.493222884453717
+                            ],
+                            "fromPosition": [
+                                4.3183885,
+                                0.8814875,
+                                -2.49322275
+                            ],
+                            "color": "#d781bb"
+                        },
+                        {
+                            "toPosition": [
+                                4.318388231092566,
+                                2.303718749999998,
+                                -2.493222884453717
+                            ],
+                            "fromPosition": [
+                                4.318388,
+                                3.52595,
+                                -2.4932230000000004
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "0,0,0,0",
+                "target": "1,0,1,1"
+            },
+            {
+                "key": "1,-1,0,0->1,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318389,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                -2.1591945,
+                                0.0,
+                                -0.0
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                -2.1591945,
+                                0.0,
+                                -0.0
+                            ],
+                            "fromPosition": [
+                                -4.318389,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,-1,0,0",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "1,-1,0,1->1,0,0,0",
+                "attributes": {
+                    "bondLength": 4.3183892177345475,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                -1.0795975,
+                                1.762975,
+                                0.6233055
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                -1.0795975,
+                                1.762975,
+                                0.6233055
+                            ],
+                            "fromPosition": [
+                                -2.159195,
+                                3.52595,
+                                1.246611
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,-1,0,1",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "1,-1,1,0->1,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318388749936833,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                -1.0795975,
+                                0.0,
+                                -1.869917
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                -1.0795975,
+                                0.0,
+                                -1.869917
+                            ],
+                            "fromPosition": [
+                                -2.159195,
+                                0.0,
+                                -3.739834
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,-1,1,0",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "1,-1,1,1->1,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318389089721999,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                -5.00000000069889e-07,
+                                1.762975,
+                                -1.2466115000000002
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                -5.00000000069889e-07,
+                                1.762975,
+                                -1.2466115000000002
+                            ],
+                            "fromPosition": [
+                                -1.000000000139778e-06,
+                                3.52595,
+                                -2.4932230000000004
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,-1,1,1",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "1,0,-1,0->1,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318388249936775,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                -1.079597,
+                                0.0,
+                                1.869917
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                -1.079597,
+                                0.0,
+                                1.869917
+                            ],
+                            "fromPosition": [
+                                -2.159194,
+                                0.0,
+                                3.739834
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,0,-1,0",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "1,0,0,-1->1,0,0,0",
+                "attributes": {
+                    "bondLength": 4.318388717734544,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                -1.079597,
+                                -1.762975,
+                                -0.6233055
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                -1.079597,
+                                -1.762975,
+                                -0.6233055
+                            ],
+                            "fromPosition": [
+                                -2.159194,
+                                -3.52595,
+                                -1.246611
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,0,0,-1",
+                "target": "1,0,0,0"
+            },
+            {
+                "key": "1,0,0,0->1,1,-1,-1",
+                "attributes": {
+                    "bondLength": 4.318389089721999,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                5.00000000069889e-07,
+                                -1.762975,
+                                1.2466115000000002
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                5.00000000069889e-07,
+                                -1.762975,
+                                1.2466115000000002
+                            ],
+                            "fromPosition": [
+                                1.000000000139778e-06,
+                                -3.52595,
+                                2.4932230000000004
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,0,0,0",
+                "target": "1,1,-1,-1"
+            },
+            {
+                "key": "1,0,0,0->1,1,0,-1",
+                "attributes": {
+                    "bondLength": 4.3183892177345475,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                1.0795975,
+                                -1.762975,
+                                -0.6233055
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                1.0795975,
+                                -1.762975,
+                                -0.6233055
+                            ],
+                            "fromPosition": [
+                                2.159195,
+                                -3.52595,
+                                -1.246611
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,0,0,0",
+                "target": "1,1,0,-1"
+            },
+            {
+                "key": "1,0,0,0->1,1,-1,0",
+                "attributes": {
+                    "bondLength": 4.318388749936833,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                1.0795975,
+                                0.0,
+                                1.869917
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                1.0795975,
+                                0.0,
+                                1.869917
+                            ],
+                            "fromPosition": [
+                                2.159195,
+                                0.0,
+                                3.739834
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,0,0,0",
+                "target": "1,1,-1,0"
+            },
+            {
+                "key": "1,0,0,0->1,1,0,0",
+                "attributes": {
+                    "bondLength": 4.318389,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                2.1591945,
+                                0.0,
+                                -0.0
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                2.1591945,
+                                0.0,
+                                -0.0
+                            ],
+                            "fromPosition": [
+                                4.318389,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,0,0,0",
+                "target": "1,1,0,0"
+            },
+            {
+                "key": "1,0,0,0->1,0,1,0",
+                "attributes": {
+                    "bondLength": 4.318388249936775,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                1.079597,
+                                0.0,
+                                -1.869917
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                1.079597,
+                                0.0,
+                                -1.869917
+                            ],
+                            "fromPosition": [
+                                2.159194,
+                                0.0,
+                                -3.739834
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,0,0,0",
+                "target": "1,0,1,0"
+            },
+            {
+                "key": "1,0,0,0->1,0,0,1",
+                "attributes": {
+                    "bondLength": 4.318388717734544,
+                    "atomicNumberKey": "As-As",
+                    "bonds": [
+                        {
+                            "toPosition": [
+                                1.079597,
+                                1.762975,
+                                0.6233055
+                            ],
+                            "fromPosition": [
+                                0.0,
+                                0.0,
+                                -0.0
+                            ],
+                            "color": "#75d057"
+                        },
+                        {
+                            "toPosition": [
+                                1.079597,
+                                1.762975,
+                                0.6233055
+                            ],
+                            "fromPosition": [
+                                2.159194,
+                                3.52595,
+                                1.246611
+                            ],
+                            "color": "#75d057"
+                        }
+                    ]
+                },
+                "source": "1,0,0,0",
+                "target": "1,0,0,1"
+            }
+        ]
+    },
+    "bondCutoffs": {
+        "As-As": 3.332,
+        "As-In": 3.6539999999999995,
+        "In-In": 3.9759999999999995
+    },
+    "speciesPairs": [
+        "As-As",
+        "As-In",
+        "In-In"
+    ],
+    "speciesColors": {
+        "As": "#75d057",
+        "In": "#d781bb"
+    },
+    "unitCell": {
+        "points": [
+            [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            [
+                4.318389,
+                0.0,
+                -0.0
+            ],
+            [
+                6.477582999999999,
+                0.0,
+                -3.739834
+            ],
+            [
+                2.159194,
+                0.0,
+                -3.739834
+            ],
+            [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            [
+                2.159194,
+                3.52595,
+                1.246611
+            ],
+            [
+                6.477582999999999,
+                3.52595,
+                1.246611
+            ],
+            [
+                4.318389,
+                0.0,
+                -0.0
+            ],
+            [
+                6.477582999999999,
+                3.52595,
+                1.246611
+            ],
+            [
+                8.636776999999999,
+                3.52595,
+                -2.4932230000000004
+            ],
+            [
+                6.477582999999999,
+                0.0,
+                -3.739834
+            ],
+            [
+                8.636776999999999,
+                3.52595,
+                -2.4932230000000004
+            ],
+            [
+                4.318388,
+                3.52595,
+                -2.4932230000000004
+            ],
+            [
+                2.159194,
+                0.0,
+                -3.739834
+            ],
+            [
+                4.318388,
+                3.52595,
+                -2.4932230000000004
+            ],
+            [
+                2.159194,
+                3.52595,
+                1.246611
+            ]
+        ]
+    },
+    "normBasis": [
+        [
+            1.0,
+            -0.0,
+            0.0
+        ],
+        [
+            0.4999998842160815,
+            -0.0,
+            -0.8660254204921836
+        ],
+        [
+            0.4999998842160815,
+            0.8164966681947374,
+            0.28867506297476875
+        ]
+    ],
+    "basis": [
+        [
+            4.318389,
+            -0.0,
+            0.0
+        ],
+        [
+            2.159194,
+            -0.0,
+            -3.739834
+        ],
+        [
+            2.159194,
+            3.52595,
+            1.246611
+        ]
+    ],
+    "recipBasis": [
+        [
+            0.23156783698735806,
+            -0.1890742828806027,
+            0.13369574270304016
+        ],
+        [
+            0.0,
+            0.09453714437323774,
+            -0.2673915473253626
+        ],
+        [
+            0.0,
+            0.2836115089550334,
+            -0.0
+        ]
+    ],
+    "viewData": {
+        "a": {
+            "lookAt": [
+                1.0,
+                -0.0,
+                0.0
+            ],
+            "up": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "b": {
+            "lookAt": [
+                0.4999998842160815,
+                -0.0,
+                -0.8660254204921836
+            ],
+            "up": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "c": {
+            "lookAt": [
+                0.4999998842160815,
+                0.8164966681947374,
+                0.28867506297476875
+            ],
+            "up": [
+                0.0,
+                0.3333332281543946,
+                -0.9428090787684271
+            ]
+        },
+        "a*": {
+            "lookAt": [
+                0.7071068704038144,
+                -0.5773501080377295,
+                0.408248239560185
+            ],
+            "up": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "b*": {
+            "lookAt": [
+                0.0,
+                0.28867506297476875,
+                -0.8164966681947374
+            ],
+            "up": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "c*": {
+            "lookAt": [
+                0.0,
+                0.8660254204921836,
+                0.0
+            ],
+            "up": [
+                0.0,
+                0.3333332281543946,
+                -0.9428090787684271
+            ]
+        }
+    },
+    "centerShift": [
+        -4.318388499999999,
+        -1.762975,
+        1.2466115000000002
+    ],
+    "additionalProps": {}
+}
